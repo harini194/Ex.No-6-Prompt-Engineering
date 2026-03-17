@@ -13,5 +13,9 @@ Analyze the response and the Output.
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
 
-Result: 
-[19TD608-Prompt Engineering(1).pdf](https://github.com/user-attachments/files/26043356/19TD608-Prompt.Engineering.1.pdf)
+RESULT:
+[PE.EX 6.pdf](https://github.com/user-attachments/files/26043716/PE.EX.6.pdf)
+
+
+
+
