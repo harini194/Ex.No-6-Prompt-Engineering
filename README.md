@@ -14,3 +14,4 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+[19TD608-Prompt Engineering(1).pdf](https://github.com/user-attachments/files/26043356/19TD608-Prompt.Engineering.1.pdf)
